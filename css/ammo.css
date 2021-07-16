@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.container {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.ammo-chart {
+    width: 100%;
+    height: 930px;
+}
