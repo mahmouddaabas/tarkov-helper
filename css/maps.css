@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.container {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.map-list {
+    text-decoration: underline;
+    display: block;
+    list-style-type: none;
+    margin-right: 90%;
+}
+
+.map-list li {
+    margin: 20%;
+    font-size: 23px;
+}
+
+.map-list a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.show-map {
+    width: 70%;
+    position: relative;
+    left: 20%;
+    margin-top: -10%;
+}
+
+.show-map img{
+    width: 80em;
+    height: 50em;
+}

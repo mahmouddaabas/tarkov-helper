@@ -1,0 +1,19 @@
+body {
+    background-image: url("../images/backgrounds/background-home.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+}
+
+.options {
+    display: flex;
+    font-size: 23px;
+    margin-top: 5%;
+    justify-content: space-around;
+}
+
+.options a {
+    text-decoration: underline;
+    color: inherit;
+}
