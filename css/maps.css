@@ -9,7 +9,7 @@ body {
 }
 
 .map-list {
-    text-decoration: underline;
+    text-decoration: none;
     display: block;
     list-style-type: none;
     margin-right: 90%;
@@ -30,7 +30,7 @@ body {
     width: 70%;
     position: relative;
     left: 20%;
-    margin-top: -20%;
+    margin-top: -26%;
 }
 
 .show-map img{
