@@ -10,6 +10,7 @@ body {
 }
 
 .map-list {
+    width: 30%;
     text-decoration: none;
     display: block;
     list-style-type: none;
@@ -18,8 +19,9 @@ body {
 }
 
 .map-list li {
-    margin: 20%;
     font-size: 21px;
+    margin: 5%;
+    margin-left: -2%;
 }
 
 .map-list a {
@@ -31,7 +33,7 @@ body {
     width: 70%;
     position: relative;
     left: 20%;
-    margin-top: -26%;
+    margin-top: -30%;
 }
 
 .show-map img{
