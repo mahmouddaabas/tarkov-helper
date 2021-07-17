@@ -20,9 +20,6 @@ body {
 
 .latest-updates {
     position: relative;
-}
-
-.updates {
-    width: 20%;
-    margin-top: 36%;
+    width: 25%;
+    top: 720px;
 }
