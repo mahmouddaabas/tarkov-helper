@@ -17,3 +17,12 @@ body {
     text-decoration: underline;
     color: inherit;
 }
+
+.latest-updates {
+    position: relative;
+}
+
+.updates {
+    width: 20%;
+    margin-top: 36%;
+}
