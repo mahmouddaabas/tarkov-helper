@@ -1,9 +1,10 @@
 body {
-    background-image: url("../images/backgrounds/background-home.jpg");
+    background-image: url("../images/backgrounds/background-home-2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
     color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .options {
@@ -21,5 +22,18 @@ body {
 .latest-updates {
     position: relative;
     width: 25%;
-    top: 720px;
+    top: 725px;
+}
+
+.footer {
+    position: relative;
+    width: 20%;
+    top: 680px;
+    left: 45%;
+}
+
+.footer a {
+    font-size: 23px;
+    text-decoration: underline;
+    color: white;
 }

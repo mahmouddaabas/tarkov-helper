@@ -1,6 +1,7 @@
 body {
     background-color: black;
     color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .container {
@@ -18,7 +19,7 @@ body {
 
 .map-list li {
     margin: 20%;
-    font-size: 23px;
+    font-size: 21px;
 }
 
 .map-list a {
