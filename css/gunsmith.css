@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.container {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.gunsmith-embed {
+    position: relative;
+    left: 15%;
+    width: 80%;
+    height: 930px;
+    
+}
+
+.gun-smith-list {
+    position: absolute;
+    font-size: 21px;
+    width: 20%;
+    top: 0%;
+    left: -2%;
+}
+
+.gun-smith-list a {
+    text-decoration: none;
+    color: inherit;
+    margin: 8%;
+    display: block;
+    list-style-type: none;
+}
