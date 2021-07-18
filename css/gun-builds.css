@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.gun-build-list {
+    position: absolute;
+    font-size: 21px;
+    width: 20%;
+    top: 0%;
+    left: -2%;
+}
+
+.gun-build-list a {
+    text-decoration: none;
+    color: inherit;
+    margin: 8%;
+    display: block;
+    list-style-type: none;
+}
+
+.show-gun {
+    width: 70%;
+    position: relative;
+    left: 20%;
+    margin-top: 5%;
+}
+
+.show-gun img{
+    width: 90em;
+    height: 50em;
+}
